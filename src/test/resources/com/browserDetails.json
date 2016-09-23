@@ -1,0 +1,52 @@
+{
+	"IPAD_AIR" : {
+	
+	    "os" : "ios",
+		"device" : "iPad Air",
+		"deviceOrientation" : "landscape"
+		"realDevice" : "true"
+	},
+	
+	"IPHONE_6" : {
+	
+	    "os" : "ios",
+		"device" : "iPhone6",
+		"deviceOrientation" : "portrait",
+		"realDevice" : "true"
+	},
+	
+	"HTC_ONE_M8" : {
+	
+	    "os" : "android",
+		"device" : "HTC One M8",
+		"deviceOrientation" : "portrait",
+		"realDevice" : "true"    
+	},
+	
+	"MAC_SNOWLEOPARD_CHROME_49_64bit" : {
+	
+		"browser" : "chrome",
+		"browserVersion" : "49",
+		"os" : "OS X",
+		"os_version" : "Snow Leopard",
+		"64bit" : "true"
+	},
+	
+	"WIN7_CHROME_45_32bit" : {
+
+		"browser" : "chrome",
+		"browserVersion" : "45",
+		"os" : "WINDOWS",
+		"os_version" : "7",
+		"64bit" : "false"
+	},
+	
+	"WIN10_FIREFOX_40_64bit" : {
+	
+		"browser" : "firefox",
+		"browserVersion" : "40",
+		"os" : "WINDOWS",
+		"os_version" : "10",
+		"64bit" : "true"
+	}
+}
